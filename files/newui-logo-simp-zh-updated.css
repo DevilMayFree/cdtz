@@ -1,0 +1,43 @@
+@media (min-width: 768px){
+	.headerv2-container header.slimheader-v2 {
+		height: 90px !important;
+		padding: 0 30px;
+	}
+}
+@media (min-width: 768px){
+	.headerv2-container header.slimheader-v2 .slim-logo:before {
+		content: '';
+		background-image: url(/content/dam/pwc/cn/en/pwc_cnlogo415x71_Chi.png);
+		background-repeat: no-repeat !important;
+		background-size: contain !important;
+		height: 90px !important;
+		width: 250px !important;
+		position: relative;
+		top: 30px;
+	}
+	.headerv2-container.headerv2--dark header.slimheader-v2 .slim-logo:before {
+		position: inherit;
+		height: 55px !important;
+		width: 72px !important;
+	}
+
+}
+
+@media (max-width:768px){
+	.headerv2-container header.slimheader-v2 .slim-logo:before {
+		content: '';
+		background-image: url(/content/dam/pwc/cn/en/pwc-logo-cn-mobile.png);
+		margin-right: 0;
+		margin-left: 15px;
+		background-repeat: no-repeat !important;
+		background-size: contain !important;
+		height: 50px !important;
+		width: 120px !important;
+	}
+	.headerv2-container.headerv2--dark header.slimheader-v2 .slim-logo:before {
+		position: inherit;
+		height: 38px !important;
+		width: 50px !important;
+	}
+
+}
