@@ -734,7 +734,7 @@ _:-ms-fullscreen,:root .videobgyt{display:block !important;overflow:hidden !impo
 .page-primary-col--red .cta-webtile{background-color:#e0301e}
 .page-primary-col--burgundy .cta-webtile{background-color:#a32020}
 .page-primary-col--rose .cta-webtile{background-color:#d93954}
-.cta-webtile .cta-webtile__link{min-height:170px;padding:40px 0;display:block;color:#fff;text-decoration:none}
+.cta-webtile .cta-webtile__link{padding:20px 0;display:block;color:#fff;text-decoration:none}
 .cta-webtile .cta-webtile__link .cta-webtile__content{z-index:3}
 .cta-webtile .cta-webtile__link .cta-webtile__content .cta-webtile__title{margin:0;color:#fff;font-size:1rem;font-family:"PwC Helvetica Neue",Arial,Sans-Serif}
 .cta-webtile .cta-webtile__link .cta-webtile__content .cta-webtile__heading{font-weight:bold;margin:0;color:#fff;font-family:"PwC Helvetica Neue",Arial,Sans-Serif}

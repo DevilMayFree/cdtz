@@ -5,7 +5,7 @@ a();
 $(".social-share-rebrand-copy").show();
 $(".social-share-rebrand-copied").hide();
 b(top);
-$(function(){var c=$(".social-share-rebrand").offset().top;
+$(function(){var c=$(".social-share-rebrand").offset();
 b(c-$(window).scrollTop());
 b(c-$(window).scrollTop())
 })
@@ -40,8 +40,8 @@ b(c-$(window).scrollTop());
 b(c-$(window).scrollTop())
 })
 });
-function b(i){var k=$(".social-share-rebrand").offset().left;
-var h=($(window).width()-($(".social-share-rebrand").offset().left+$(".social-share-rebrand").outerWidth()));
+function b(i){var k=$(".social-share-rebrand").offset();
+var h=($(window).width()-($(".social-share-rebrand").offset()+$(".social-share-rebrand").outerWidth()));
 var g=$(window).height();
 var j=g-i;
 var d=i+50+"px";

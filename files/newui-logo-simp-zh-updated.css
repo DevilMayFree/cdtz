@@ -7,7 +7,7 @@
 @media (min-width: 768px){
 	.headerv2-container header.slimheader-v2 .slim-logo:before {
 		content: '';
-		background-image: url(/content/dam/pwc/cn/en/pwc_cnlogo415x71_Chi.png);
+		background-image: url(/files/image/logo.jpg);
 		background-repeat: no-repeat !important;
 		background-size: contain !important;
 		height: 90px !important;
@@ -26,7 +26,7 @@
 @media (max-width:768px){
 	.headerv2-container header.slimheader-v2 .slim-logo:before {
 		content: '';
-		background-image: url(/content/dam/pwc/cn/en/pwc-logo-cn-mobile.png);
+		background-image: url(/files/image/logo.jpg);
 		margin-right: 0;
 		margin-left: 15px;
 		background-repeat: no-repeat !important;
