@@ -13,7 +13,6 @@
 		height: 90px !important;
 		width: 250px !important;
 		position: relative;
-		top: 30px;
 	}
 	.headerv2-container.headerv2--dark header.slimheader-v2 .slim-logo:before {
 		position: inherit;
